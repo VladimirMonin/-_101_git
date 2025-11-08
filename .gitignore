@@ -1,7 +1,0 @@
-passwords.py
-.venv
-*__pycache__
-*.pyc
-*.mp3
-*.ogg
-*.wav

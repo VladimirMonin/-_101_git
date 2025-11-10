@@ -7,3 +7,5 @@ print("Привет из второго файла!")
 # Локально в репозитории
 # git config user.name "Локальное Имя"
 # git config user.email "локальный.емейл@example.com"
+
+# Еще что-то
